@@ -34,7 +34,7 @@ Os dados são armazenados utilizando o **localStorage**, permitindo que as infor
 ## 🌐 Acesse o Projeto
 
 <p align="left">
-  <a href="" target="_blank">
+  <a href="https://organizer-web-snowy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Organizer%20Web-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
