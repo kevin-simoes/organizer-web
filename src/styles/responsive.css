@@ -1,0 +1,39 @@
+/* =========================
+ RESPONSIVIDADE
+========================= */
+
+  @media (max-width: 768px) {
+    .header {
+      padding: 16px 1.5rem;
+    }
+  
+    .header div {
+      gap: 1rem;
+    }
+  
+    .hero {
+      padding: 3rem 1.5rem;
+    }
+  
+    .hero h1 {
+      font-size: 36px;
+    }
+  
+    footer {
+      padding: 2rem 1.5rem;
+    }
+  
+    .footer-top {
+      flex-direction: column;
+      gap: 2rem;
+    }
+  
+    .popup-overlay {
+      padding: 15px;
+    }
+  
+    .popup {
+      width: 100%;
+      max-width: 380px;
+    }
+  }
