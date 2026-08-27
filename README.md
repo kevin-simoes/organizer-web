@@ -152,6 +152,10 @@ A aplicação possui estilos específicos para diferentes tamanhos de tela, perm
 - Tablet;
 - Smartphones;
 
+### Uso de I.A.
+
+A imagem do hero (src/assets/hero-banner.png) foi gerada com inteligência artficial.
+
 ## 📦 Instalação
 
 Para executar o projeto localmente, é necessário possuir o Node.js instalado.
